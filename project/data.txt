@@ -1,3 +1,3 @@
-2
-phukao 1
-kongtab 5
+3
+phukao 3 0
+kongtab 5 1
